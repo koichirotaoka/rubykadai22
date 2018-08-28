@@ -172,7 +172,7 @@ GEM
       nokogiri (~> 1.8)
 
 PLATFORMS
-  ruby
+  ruby '2.4.4'
 
 DEPENDENCIES
   byebug
@@ -194,3 +194,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.16.4
+   
+   
