@@ -7,7 +7,7 @@ class BlogsController < ApplicationController
     if params[:back]
       @blog = Blog.new(blog_params)
     else
-      @blog = Blog.new
+      @blog = Blog.new 
     end
   end
     
